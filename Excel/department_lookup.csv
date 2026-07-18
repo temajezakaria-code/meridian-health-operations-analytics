@@ -1,0 +1,9 @@
+department_id,department_name,department_type
+1,Emergency,Emergency
+2,Cardiology,Inpatient
+3,Orthopedics,Inpatient
+4,Oncology,Inpatient
+5,General Surgery,Inpatient
+6,Pediatrics,Inpatient
+7,Internal Medicine,Inpatient
+8,Outpatient Clinic,Outpatient
